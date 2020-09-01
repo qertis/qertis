@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Ponominalu
-- 🌱 I’m currently learning Toki Pona
+- 🔭 I’m currently working on Ponominalu & Ticketland
+- 🌱 I’m currently learning Piano
 - 👯 I’m looking to collaborate on [goto Interactive Software](http://gotointeractive.com/)
 - 🤔 I’m looking for help with [ProstoDiary](https://prosto-diary.gotointeractive.com/)
 - 💬 Ask me about [collaboration](http://denis.baskovsky.ru/feedback)
