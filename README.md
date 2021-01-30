@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with [ProstoDiary](https://prosto-diary.gotointeractive.com/)
 - 💬 Ask me about [collaboration](http://denis.baskovsky.ru/feedback)
 - 💼 You can see [my portfolio](https://portfolio.baskovsky.ru)
+- 📑 You can see [my blog](https://blog.baskovsky.ru)
 - 📫 How to reach me: [Telegram](https://t.me/qertis)
 
 ![qertis's github stats](https://github-readme-stats.vercel.app/api/?username=qertis&show_icons=true&theme=radical)
