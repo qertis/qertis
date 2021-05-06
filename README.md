@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on [goto Interactive Software](http://gotointeractive.com/)
 - 💬 I’m looking for help with [ProstoDiary](https://prosto-diary.gotointeractive.com/)
 - 💼 You can see [my portfolio](https://portfolio.baskovsky.ru)
+- 🤔 Ask me about [collaboration](http://linkedin.com/in/baskovsky)
+- 🕹 My Games [Android](https://play.google.com/store/apps/developer?id=goto+Interactive+Software)
 - 📑 You can see [my blog](https://baskovsky.ru)
 - 📫 How to reach me: [form](https://baskovsky.ru/feedback/)
 
