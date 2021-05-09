@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working Lead Front-End on ticketland.ru
 - 🌱 I’m currently learning SoLiD
@@ -13,6 +13,8 @@
 ![qertis's github stats](https://github-readme-stats.vercel.app/api/?username=qertis&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qertis&theme=radical)](https://github.com/qertis)
+
+### Me
 
 ### KEY COMPETENCIES 
 - Expert in PC Hardware 
@@ -32,9 +34,6 @@ Self-managed, highly motivated, methodological, visual thinking, collaborative w
 - Russian (native speaker) 
 - English (intermediate) 
 - TokiPona (preintermediate)
-
-### Personal Interests 
-Volleyball, Ping-Pong, Counter-Strike, UFC, Fitness, Yoga, Kicker, Vocal, Food, Startup, Guitar 
 
 ### AREAS OF EXPERTISE 
 Product Strategy 
