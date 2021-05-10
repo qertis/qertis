@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working Lead Front-End on ticketland.ru
-- 🌱 I’m currently learning SoLiD
-- 👯 I’m looking to collaborate on [goto Interactive Software](http://gotointeractive.com/)
+- 🔭 I’m currently working Lead Front-End on TicketLand
+- 🌱 I’m currently learning SoLiD [here](https://t.me/turbostate)
+- 👯 I’m looking to collaborate on [goto Interactive Software](https://gotointeractive.com/)
 - 💬 I’m looking for help with [ProstoDiary](https://prosto-diary.gotointeractive.com/)
 - 💼 You can see [my portfolio](https://portfolio.baskovsky.ru)
-- 🤔 Ask me about [collaboration](http://linkedin.com/in/baskovsky)
+- 🤔 Ask me about [collaboration](https://linkedin.com/in/baskovsky)
 - 🕹 My Games [Android](https://play.google.com/store/apps/developer?id=goto+Interactive+Software)
 - 📑 You can see [my blog](https://baskovsky.ru)
 - 📫 How to reach me: [form](https://baskovsky.ru/feedback/)
@@ -14,26 +14,26 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qertis&theme=radical)](https://github.com/qertis)
 
-### Me
+## Me
 
 ### KEY COMPETENCIES 
 - Expert in PC Hardware 
 - OS: Linux, Windows, MacOS, iOS, Android 
-- Agile: Scrum, Waterfall 
-- Shell: Bash, Fish 
-- Protocols: HTTP(s) 
-- Continues Integration: Travis CI 
-- Databases: Firebase, CouchDB 
-- Web Development: DOM, Chrome DevTools, nginx, HTML5, CSS3, JSON, AJAX, Babel, Flow, JSX,  Heroku, Accessibility 
+- Agile: Scrum, Kanban, Waterfall 
+- Shell: Bash, Fish
+- Protocols: HTTP(s)
+- Continues Integration: Travis CI, Jenkins
+- Databases: Firebase, CouchDB, PostgreSQL
+- Web Development: DOM, Chrome DevTools, Nginx, HTML5, CSS3, JSON, AJAX, Babel, TypeScript, JavaScript, Flow, JSX, Heroku, Accessibility, Animation, Canvas 
 - Development: Prototyping, XP, SODD 
-
-### Personal skills 
-Self-managed, highly motivated, methodological, visual thinking, collaborative working within/without a team 
 
 ### Language
 - Russian (native speaker) 
 - English (intermediate) 
 - TokiPona (preintermediate)
+
+### Personal skills 
+Self-managed, highly motivated, methodological, visual thinking, collaborative working within/without a team 
 
 ### AREAS OF EXPERTISE 
 Product Strategy 
