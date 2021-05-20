@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning [SoLiD](https://t.me/turbostate)
 - 👯 I’m looking to collaborate on [goto Interactive Software](https://gotointeractive.com/) and with [ProstoDiary](https://prosto-diary.gotointeractive.com/)
 - 💼 You can see [My Portfolio](https://portfolio.baskovsky.ru) and [Game Publisher](https://play.google.com/store/apps/developer?id=goto+Interactive+Software)
-- 📫 How to reach me: [contact](https://baskovsky.ru/feedback/) | [LinkedIn](https://linkedin.com/in/baskovsky)
+- 📫 How to reach me: [Contact](https://baskovsky.ru/feedback/) | [LinkedIn](https://linkedin.com/in/baskovsky)
 
 ### KEY COMPETENCIES 
 - Expert in PC Hardware 
