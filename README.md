@@ -3,10 +3,9 @@
 ### Denis Baskovsky
 
 - 🔭 I’m currently working Lead Front-End on TicketLand
-- 🌱 I’m currently learning SoLiD [here](https://t.me/turbostate)
+- 🌱 I’m currently learning [SoLiD](https://t.me/turbostate)
 - 👯 I’m looking to collaborate on [goto Interactive Software](https://gotointeractive.com/) and with [ProstoDiary](https://prosto-diary.gotointeractive.com/)
-- 💼 You can see [my portfolio](https://portfolio.baskovsky.ru)
-- 🕹 My Games [Android](https://play.google.com/store/apps/developer?id=goto+Interactive+Software)
+- 💼 You can see [My Portfolio](https://portfolio.baskovsky.ru) and [Game Publisher](https://play.google.com/store/apps/developer?id=goto+Interactive+Software)
 - 📫 How to reach me: [contact](https://baskovsky.ru/feedback/) | [LinkedIn](https://linkedin.com/in/baskovsky)
 
 ### KEY COMPETENCIES 
