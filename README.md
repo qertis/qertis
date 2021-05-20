@@ -1,20 +1,13 @@
 ## Hi there 👋
 
+### Denis Baskovsky
+
 - 🔭 I’m currently working Lead Front-End on TicketLand
 - 🌱 I’m currently learning SoLiD [here](https://t.me/turbostate)
-- 👯 I’m looking to collaborate on [goto Interactive Software](https://gotointeractive.com/)
-- 💬 I’m looking for help with [ProstoDiary](https://prosto-diary.gotointeractive.com/)
+- 👯 I’m looking to collaborate on [goto Interactive Software](https://gotointeractive.com/) and with [ProstoDiary](https://prosto-diary.gotointeractive.com/)
 - 💼 You can see [my portfolio](https://portfolio.baskovsky.ru)
-- 🤔 Ask me about [collaboration](https://linkedin.com/in/baskovsky)
 - 🕹 My Games [Android](https://play.google.com/store/apps/developer?id=goto+Interactive+Software)
-- 📑 You can see [my blog](https://baskovsky.ru)
-- 📫 How to reach me: [form](https://baskovsky.ru/feedback/)
-
-![qertis's github stats](https://github-readme-stats.vercel.app/api/?username=qertis&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qertis&theme=radical)](https://github.com/qertis)
-
-## Me
+- 📫 How to reach me: [contact](https://baskovsky.ru/feedback/) [LinkedIn](https://linkedin.com/in/baskovsky)
 
 ### KEY COMPETENCIES 
 - Expert in PC Hardware 
@@ -26,6 +19,10 @@
 - Databases: Firebase, CouchDB, PostgreSQL
 - Web Development: DOM, Chrome DevTools, Nginx, HTML5, CSS3, JSON, AJAX, Babel, TypeScript, JavaScript, Flow, JSX, Heroku, Accessibility, Animation, Canvas 
 - Development: Prototyping, XP, SODD 
+
+![qertis's github stats](https://github-readme-stats.vercel.app/api/?username=qertis&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qertis&theme=radical)](https://github.com/qertis)
 
 ### Language
 - Russian (native speaker) 
