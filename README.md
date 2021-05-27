@@ -38,3 +38,5 @@ Product Strategy
 - [New Cloud Technologies](https://baskovsky.ru/2017/06/рекомендательное-письмо-new-cloud-technologies/)
 - [Ponominalu](https://baskovsky.ru/2021/01/рекомендательное-письмо-ponominalu/)
 - [Ticketland](https://baskovsky.ru/2021/02/рекомендательное-письмо-ticketland/)
+
+![](https://komarev.com/ghpvc/?username=qertis)
