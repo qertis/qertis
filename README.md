@@ -3,7 +3,6 @@
 ## 🅱️ I'm Denis Baskovsky 
 
 - 🔭 I’m currently working Lead Front-End on TicketLand
-- 🌱 I’m currently learning [SoLiD](https://t.me/turbostate)
 - 👯 I’m looking to collaborate on [goto Interactive Software](https://gotointeractive.com/) and with [ProstoDiary](https://prosto-diary.gotointeractive.com/)
 - 💼 You can see [My Portfolio](https://portfolio.baskovsky.ru) and [Game Publisher](https://play.google.com/store/apps/developer?id=goto+Interactive+Software)
 - 📫 How to reach me: [Contact](https://baskovsky.ru/feedback/) | [LinkedIn](https://linkedin.com/in/baskovsky) | [Facebook](https://www.facebook.com/baskovsky.ru)
