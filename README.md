@@ -39,3 +39,5 @@ Product Strategy
 - [Ticketland](https://baskovsky.ru/2021/02/рекомендательное-письмо-ticketland/)
 
 ![](https://komarev.com/ghpvc/?username=qertis)
+
+Please send BTC to bitcoin:bc1qejh37h2epmkrs0vmrv480fc27e0z4arkncevcp
