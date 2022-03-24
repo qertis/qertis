@@ -8,30 +8,25 @@
 - 📫 How to reach me: [Contact](https://baskovsky.ru/feedback/) | [LinkedIn](https://linkedin.com/in/baskovsky) | [Facebook](https://www.facebook.com/baskovsky.ru)
 
 ### 💻 KEY COMPETENCIES 
-- Expert in PC Hardware 
-- OS: Linux, Windows, MacOS, iOS, Android 
-- Agile: Scrum, Kanban, Waterfall 
-- Shell: Bash, Fish
-- Protocols: HTTP(s)
-- Continues Integration: Travis CI, Jenkins
-- Databases: Firebase, CouchDB, PostgreSQL
-- Web Development: DOM, Chrome DevTools, Nginx, HTML5, CSS3, JSON, AJAX, Babel, TypeScript, JavaScript, Flow, JSX, Heroku, Accessibility, Animation, Canvas 
-- Development: Prototyping, XP, SODD
+- Expert in [PC Hardware](https://baskovsky.ru/category/review/hardware/)
+- Development: [WebDev](https://baskovsky.ru/category/development/webdev/), [GameDev](https://baskovsky.ru/category/development/gamedev/)
+- I'm use: [JavaScript](https://baskovsky.ru/tag/javascript), [HTML5](https://baskovsky.ru/tag/html), [CSS3](https://baskovsky.ru/tag/css/), [Canvas](https://baskovsky.ru/tag/canvas/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qertis&theme=radical)](https://github.com/qertis)
 ![qertis's github stats](https://github-readme-stats.vercel.app/api/?username=qertis&show_icons=false&theme=radical)
 
 
 ### 👅 LANGUAGES 
-- Russian (native speaker) 
+- Russian (native) 
 - English (intermediate) 
-- TokiPona (preintermediate)
+- TokiPona (pre intermediate)
 
 ### 🥷 PERSONAL SKILLS 
 Self-managed, highly motivated, methodological, visual thinking, collaborative working within/without a team 
 
 ### 👨‍💻 AREAS OF EXPERTISE 
-Product Strategy 
+- IT Consulting
+- Product Strategy
 
 ### 👍 RECOMMENDATIONS 
 - [New Cloud Technologies](https://baskovsky.ru/2017/06/рекомендательное-письмо-new-cloud-technologies/)
