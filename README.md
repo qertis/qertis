@@ -1,8 +1,7 @@
 # Hello there! 👋
 
 ## 🅱️ I'm Denis Baskovsky 
-
-- 🔭 I’m currently working Lead Front-End on TicketLand
+- 🔭 I’m currently working Lead Front-End on MTS TicketLand
 - 👯 I’m looking to collaborate on [goto Interactive Software](https://gotointeractive.com/) and with [ProstoDiary](https://prosto-diary.gotointeractive.com/)
 - 💼 You can see [My Portfolio](https://portfolio.baskovsky.ru) and [Game Publisher](https://play.google.com/store/apps/developer?id=goto+Interactive+Software)
 - 📫 How to reach me: [Contact](https://baskovsky.ru/feedback/) | [LinkedIn](https://linkedin.com/in/baskovsky) | [Facebook](https://www.facebook.com/baskovsky.ru)
@@ -15,7 +14,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qertis&theme=radical)](https://github.com/qertis)
 ![qertis's github stats](https://github-readme-stats.vercel.app/api/?username=qertis&show_icons=false&theme=radical)
 
-
 ### 👅 LANGUAGES 
 - Russian (native) 
 - English (intermediate) 
@@ -25,8 +23,7 @@
 Self-managed, highly motivated, methodological, visual thinking, collaborative working within/without a team 
 
 ### 👨‍💻 AREAS OF EXPERTISE 
-- IT Consulting
-- Product Strategy
+- [IT Consulting](https://baskovsky.ru/category/consulting/)
 
 ### 👍 RECOMMENDATIONS 
 - [New Cloud Technologies](https://baskovsky.ru/2017/06/рекомендательное-письмо-new-cloud-technologies/)
