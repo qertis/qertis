@@ -4,7 +4,8 @@
 - 🔭 I’m currently working Lead Front-End on MTS TicketLand
 - 👯 I’m looking to collaborate on [goto Interactive Software](https://gotointeractive.com/) and with [ProstoDiary](https://prosto-diary.gotointeractive.com/)
 - 💼 You can see [My Portfolio](https://portfolio.baskovsky.ru) and [Game Publisher](https://play.google.com/store/apps/developer?id=goto+Interactive+Software)
-- 📫 How to reach me: [Contact](https://baskovsky.ru/feedback/) | [LinkedIn](https://linkedin.com/in/baskovsky) | [Facebook](https://www.facebook.com/baskovsky.ru)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/baskovsky) | [Facebook](https://www.facebook.com/baskovsky.ru) | [WebSite](https://baskovsky.ru/feedback/)
+- 🛒 [My shop](https://baskovsky.ru/shop/)
 
 ### 💻 KEY COMPETENCIES 
 - Expert in [PC Hardware](https://baskovsky.ru/category/review/hardware/)
@@ -20,7 +21,7 @@
 - TokiPona (pre intermediate)
 
 ### 🥷 PERSONAL SKILLS 
-Self-managed, highly motivated, methodological, visual thinking, collaborative working within/without a team 
+Self-managed, highly motivated, methodological, visual thinking, collaborative working
 
 ### 👨‍💻 AREAS OF EXPERTISE 
 - [IT Consulting](https://baskovsky.ru/category/consulting/)
@@ -30,6 +31,7 @@ Self-managed, highly motivated, methodological, visual thinking, collaborative w
 - [Ponominalu](https://baskovsky.ru/2021/01/рекомендательное-письмо-ponominalu/)
 - [Ticketland](https://baskovsky.ru/2021/02/рекомендательное-письмо-ticketland/)
 
-![](https://komarev.com/ghpvc/?username=qertis)
+### 🤑 DONATE
+- BTC to bitcoin:bc1qejh37h2epmkrs0vmrv480fc27e0z4arkncevcp
 
-Please send BTC to bitcoin:bc1qejh37h2epmkrs0vmrv480fc27e0z4arkncevcp
+![](https://komarev.com/ghpvc/?username=qertis)
