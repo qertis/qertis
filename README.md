@@ -1,4 +1,4 @@
-# Hello there! 👋
+# 👋 Hello there!
 
 ## 🅱️ I'm Denis Baskovsky 
 - 🔭 I’m currently working Lead Front-End on MTS TicketLand
