@@ -32,6 +32,7 @@ Self-managed, highly motivated, methodological, visual thinking, collaborative w
 - [Ticketland](https://baskovsky.ru/2021/02/рекомендательное-письмо-ticketland/)
 
 ### 🤑 DONATE
+Did you like my work? Do you want to support me financially? Then transfer a convenient amount to my bitcoin wallet:
 - BTC to bitcoin:bc1qejh37h2epmkrs0vmrv480fc27e0z4arkncevcp
 
 ![](https://komarev.com/ghpvc/?username=qertis)
