@@ -1,11 +1,10 @@
 # 👋 Hello there!
 
 ## 🅱️ I'm Denis Baskovsky 
-- 🔭 I’m currently working Lead Front-End on MTS TicketLand
+- 🔭 I’m currently working Lead Front-End on MTS Digital
 - 👯 I’m looking to collaborate on [goto Interactive Software](https://gotointeractive.com/) and with [ProstoDiary](https://prosto-diary.gotointeractive.com/)
 - 💼 You can see [My Portfolio](https://portfolio.baskovsky.ru) and [Google Play Store](https://play.google.com/store/apps/developer?id=goto+Interactive+Software)
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/baskovsky) | [Facebook](https://www.facebook.com/baskovsky.ru) | [WebSite](https://baskovsky.ru/feedback/)
-- 🛒 [My shop](https://baskovsky.ru/shop/)
+- 🛒 How to reach me: [My shop](https://baskovsky.ru/shop/)
 
 ### 💻 KEY COMPETENCIES 
 - Expert in [PC Hardware](https://baskovsky.ru/category/review/hardware/)
