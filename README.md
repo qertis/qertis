@@ -2,7 +2,7 @@
 
 ## 🅱️ I'm Denis Baskovsky 
 - 🔭 I’m currently working Lead Front-End on MTS Digital
-- 👯 I’m looking to collaborate on [goto Interactive Software](https://gotointeractive.com/) and with [ProstoDiary](https://prosto-diary.gotointeractive.com/)
+- 👯 I’m looking to collaborate on DAO [goto Interactive Software](https://gotointeractive.com/)
 - 💼 You can see [My Portfolio](https://portfolio.baskovsky.ru) and [Google Play Store](https://play.google.com/store/apps/developer?id=goto+Interactive+Software)
 - 🛒 How to reach me: [My shop](https://baskovsky.ru/shop/)
 
@@ -10,9 +10,6 @@
 - Expert in [PC Hardware](https://baskovsky.ru/category/review/hardware/)
 - Development: [WebDev](https://baskovsky.ru/category/development/webdev/), [GameDev](https://baskovsky.ru/category/development/gamedev/)
 - I'm use: [JavaScript](https://baskovsky.ru/tag/javascript), [HTML5](https://baskovsky.ru/tag/html), [CSS3](https://baskovsky.ru/tag/css/), [Canvas](https://baskovsky.ru/tag/canvas/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qertis&theme=radical)](https://github.com/qertis)
-![qertis's github stats](https://github-readme-stats.vercel.app/api/?username=qertis&show_icons=false&theme=radical)
 
 ### 👅 LANGUAGES 
 - Russian (native) 
@@ -33,5 +30,8 @@ Self-managed, highly motivated, methodological, visual thinking, collaborative w
 ### 🤑 DONATE
 Did you like my work? Do you want to support me financially? Then transfer a convenient amount to my bitcoin wallet:
 - BTC to bitcoin:bc1qejh37h2epmkrs0vmrv480fc27e0z4arkncevcp
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qertis&theme=radical)](https://github.com/qertis)
+![qertis's github stats](https://github-readme-stats.vercel.app/api/?username=qertis&show_icons=false&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=qertis)
