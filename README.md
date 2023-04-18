@@ -2,7 +2,7 @@
 
 ## 🅱️ I'm Denis Baskovsky 
 - 🔭 I’m currently working Lead Front-End on MTS Digital
-- 👯 I’m looking to collaborate on DAO [goto Interactive Software](https://gotointeractive.com/)
+- 👯 DAO [goto Interactive Communications](https://gotointeractive.com/)
 - 💼 You can see [My Portfolio](https://portfolio.baskovsky.ru) and [Google Play Store](https://play.google.com/store/apps/developer?id=goto+Interactive+Software)
 - 🛒 How to reach me: [My shop](https://baskovsky.ru/shop/)
 
