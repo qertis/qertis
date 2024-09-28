@@ -1,9 +1,10 @@
 # 👋 Hello there!
 
 ## 🅱️ I'm Denis Baskovsky 
-- 🔭 I’m currently working Lead Front-End on MTS Digital
-- 👯 DAO [goto Interactive Communications](https://gotointeractive.com/)
-- 💼 You can see [My Portfolio](https://portfolio.baskovsky.ru) and [Google Play Store](https://play.google.com/store/apps/developer?id=goto+Interactive+Software)
+- 👨🏻‍💻 I’m currently working Lead Frontend on MTS Media
+- 🤖 [Виртуальный секретарь](https://baskovsky.ru/category/startup/secretary/) 
+- 🔭 [GIC DAO](https://gotointeractive.com/)
+- 💼 You can see [My Portfolio](https://portfolio.baskovsky.ru) and [Google Play Store]([https://play.google.com/store/apps/developer?id=goto+Interactive+Software](https://play.google.com/store/apps/dev?id=8501139643619850738))
 - 🛒 How to reach me: [My shop](https://baskovsky.ru/shop/)
 
 ### 💻 KEY COMPETENCIES 
@@ -13,14 +14,15 @@
 
 ### 👅 LANGUAGES 
 - Russian (native) 
-- English (intermediate) 
+- English (pre intermediate) 
 - TokiPona (pre intermediate)
 
 ### 🥷 PERSONAL SKILLS 
-Self-managed, highly motivated, methodological, visual thinking, collaborative working
+Self-managed, highly motivated, methodological, visual thinking, collaborative working.
 
 ### 👨‍💻 AREAS OF EXPERTISE 
 - [IT Consulting](https://baskovsky.ru/category/consulting/)
+- [MBA](https://baskovsky.ru/category/lifestyle/business-administrator/)
 
 ### 👍 RECOMMENDATIONS 
 - [New Cloud Technologies](https://baskovsky.ru/2017/06/рекомендательное-письмо-new-cloud-technologies/)
