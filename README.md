@@ -4,8 +4,8 @@
 - 👨🏻‍💻 I’m currently working Lead Frontend on MTS Media
 - 🤖 [Виртуальный секретарь](https://baskovsky.ru/category/startup/secretary/) 
 - 🔭 [GIC DAO](https://gotointeractive.com/)
-- 💼 You can see [My Portfolio](https://portfolio.baskovsky.ru) and [Google Play Store]([https://play.google.com/store/apps/developer?id=goto+Interactive+Software](https://play.google.com/store/apps/dev?id=8501139643619850738))
-- 🛒 How to reach me: [My shop](https://baskovsky.ru/shop/)
+- 💼 You can see [My Portfolio](https://portfolio.baskovsky.ru) and [Google Play Store](https://play.google.com/store/apps/dev?id=8501139643619850738&pli=1)
+- 🛒 [My shop](https://baskovsky.ru/shop/)
 
 ### 💻 KEY COMPETENCIES 
 - Expert in [PC Hardware](https://baskovsky.ru/category/review/hardware/)
